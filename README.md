@@ -77,7 +77,9 @@ Em trabalhos futuros, técnicas para lidar com essa demanda computacional poder�
 
 **Sergio Tabarez**
 [www.linkedin.com/in/sergiotabarez]
+
 [sergio.tabarez@gmail.com]
+
 [https://github.com/sergiotabarez/lottery-prediction-model]
 
 ## Licença
