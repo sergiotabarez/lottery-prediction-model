@@ -51,8 +51,6 @@ Este projeto foi desenvolvido e otimizado para ser executado no [Google Colab](h
 
 ## Resultados e Análise
 
-*(Aqui você pode adicionar pequenas descrições dos gráficos ou resultados importantes, e então referenciar as imagens. Você pode copiar trechos da análise que já fizemos antes para o Upwork/Fiverr.)*
-
 * **Gráfico de Perda (Loss History):** Demonstra a convergência do modelo durante o treinamento.
     ![Gráfico de Perda](images/Histórico_perda.png) 
     *(Altere o caminho se suas imagens não estiverem na pasta `images/`)*
