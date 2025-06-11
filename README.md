@@ -53,8 +53,7 @@ Este projeto foi desenvolvido e otimizado para ser executado no [Google Colab](h
 
 * **Gráfico de Perda (Loss History):** Demonstra a convergência do modelo durante o treinamento.
     ![Gráfico de Perda](images/Histórico_perda.png) 
-    *(Altere o caminho se suas imagens não estiverem na pasta `images/`)*
-
+    
 * **Exemplo de Estrutura do Código:** Captura de tela de parte do código.
     ![Exemplo de Código](images/bibliotecas.png)
 
