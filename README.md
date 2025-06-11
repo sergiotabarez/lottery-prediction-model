@@ -56,10 +56,10 @@ Este projeto foi desenvolvido e otimizado para ser executado no [Google Colab](h
     *(Altere o caminho se suas imagens não estiverem na pasta `images/`)*
 
 * **Exemplo de Estrutura do Código:** Captura de tela de parte do código.
-    ![Exemplo de Código](images/image_a998d4.png)
+    ![Exemplo de Código](images/bibliotecas.png)
 
 * **Exemplo de Resultados da Simulação:** Tabela com resultados da simulação de apostas.
-    ![Resultados da Simulação](images/image_a994d7.png)
+    ![Resultados da Simulação](resultados.png)
 
 ## Observações e Próximos Passos
 
