@@ -76,8 +76,8 @@ Em trabalhos futuros, técnicas para lidar com essa demanda computacional poder�
 ## Autor
 
 **Sergio Tabarez**
-[Link para o seu perfil do LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui)
-[Link para seu perfil do GitHub](https://github.com/sergiotabarez)
+www.linkedin.com/in/sergiotabarez
+sergio.tabarez@gmail.com
 
 ## Licença
 
