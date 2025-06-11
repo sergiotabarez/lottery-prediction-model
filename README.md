@@ -76,6 +76,7 @@ Em trabalhos futuros, t√©cnicas para lidar com essa demanda computacional poder√
 ## Autor
 
 **Sergio Tabarez**
+
 [www.linkedin.com/in/sergiotabarez]
 
 [sergio.tabarez@gmail.com]
