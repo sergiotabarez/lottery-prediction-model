@@ -46,8 +46,9 @@ Este projeto foi desenvolvido e otimizado para ser executado no [Google Colab](h
         ```python
         !pip install -r requirements.txt
         ```
-
 5.  **Execute a Célula**
+
+6.  **Ajuste hiperparâmetros para testar curvas e média de acertos e execute novamente**
 
 ## Resultados e Análise
 
