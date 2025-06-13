@@ -33,8 +33,8 @@ Este projeto foi desenvolvido e otimizado para ser executado no [Google Colab](h
 
 2.  **Abra o Notebook no Google Colab:**
     * Vá para [https://colab.research.google.com/](https://colab.research.google.com/)
-    * Clique em `File` (Arquivo) > `Upload notebook` (Carregar notebook) e selecione o arquivo `Deep_Learning_LSTM.ipynb` que você baixou do repositório.
-    * *(Alternativamente, se você já clonou o repositório para seu Google Drive ou localmente e quer abrir direto no Colab pelo GitHub, você pode ir em `File` > `Open notebook` > `GitHub` e colar o link direto para o seu notebook no GitHub: `https://github.com/sergiotabarez/lottery-prediction-model/blob/main/Deep_Learning_LSTM.ipynb`)*
+    * Clique em `File` (Arquivo) > `Upload notebook` (Carregar notebook) e selecione o arquivo `Deep_Learning_LSTM.py` que você baixou do repositório.
+    * *(Alternativamente, se você já clonou o repositório para seu Google Drive ou localmente e quer abrir direto no Colab pelo GitHub, você pode ir em `File` > `Open notebook` > `GitHub` e colar o link direto para o seu notebook no GitHub: `https://github.com/sergiotabarez/lottery-prediction-model/blob/main/Deep_Learning_LSTM.py`)*
 
 3.  **Carregue o Arquivo de Dados (`Lotofacil-original100.xlsx`):**
     * No ambiente do Colab, utilize a opção de upload de arquivos (ícone de pasta na barra lateral esquerda).
