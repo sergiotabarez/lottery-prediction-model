@@ -16,7 +16,7 @@ Este projeto implementa um modelo de Machine Learning para prever números de so
 
 ## Estrutura do Projeto
 
-* `Deep_Learning_LSTM.ipynb`: O notebook principal contendo todo o código-fonte do modelo, treinamento, avaliação e simulações.
+* `Deep_Learning_LSTM.py`: O notebook principal contendo todo o código-fonte do modelo, treinamento, avaliação e simulações.
 * `requirements.txt`: Lista das bibliotecas Python e suas versões necessárias para a execução do projeto.
 * `Lotofacil-original100.xlsx`: Conjunto de dados de exemplo (subconjunto de 100 sorteios) utilizado para o treinamento e teste do modelo.
 * `images/`: Pasta contendo gráficos de desempenho e capturas de tela do código/resultados.
